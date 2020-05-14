@@ -127,5 +127,5 @@ def adding_to_dennis
         :languages => ["C"]
       }
     }
-retprogrammer_hash[:dennis_richie][:languages]
+retprogrammer_hash[:dennis_richie][:languages][1]
 end
