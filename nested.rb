@@ -56,6 +56,7 @@ def dennis_ritchies_language
       }
     }
 programmer_hash[:dennis_ritchie][:languages][2] = "Assembly"
+return programmer_hash
 end
 
 def adding_matz
